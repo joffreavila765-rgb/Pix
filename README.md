@@ -11,7 +11,7 @@ Você pode colocar algo assim no começo do README:
 ## 💰 Apoie o Projeto
 
 Se quiser contribuir com este projeto:  
-📲 **Chave Pix:** `seu-email-ou-chave-aqui`
+📲 **Chave Pix:** `CPF 325.125.618-10
 
 Ou escaneie o QR Code:  
 
