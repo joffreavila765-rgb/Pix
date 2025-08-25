@@ -3,7 +3,35 @@
 Bem-vindo ao **Pix Termux**, um ambiente tático e simbólico desenvolvido no **Termux**.  
 Este sistema integra segurança, automação, exploração simbólica e scripts personalizados que refletem estados emocionais e fases de evolução.
 
----
+---## 🔧 Instalação
+### 🔹 Badge de Doação (Pix/QR Code)
+Você pode colocar algo assim no começo do README:
+
+```markdown
+## 💰 Apoie o Projeto
+
+Se quiser contribuir com este projeto:  
+📲 **Chave Pix:** `seu-email-ou-chave-aqui`
+
+Ou escaneie o QR Code:  
+
+![QR Code Pix](qrcode.png)
+```bash
+# Clone o repositório
+git clone https://github.com/joffreavila765-rgb/Pix.git
+cd Pix
+### 🔹 Seção de Uso
+```markdown
+## ⚡ Uso
+
+```bash
+# Rodar o sistema
+./scripts/espelho.sh
+
+# Ativar Fase Delta
+./scripts/delta_host.sh
+# Dê permissão de execução
+chmod +x scripts/*.sh
 
 ## 🚀 Estrutura
 
