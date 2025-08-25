@@ -1,4 +1,4 @@
-# 🔒 Projeto Pix Termux
+git init nome-do-repo# 🔒 Projeto Pix Termux
 
 Bem-vindo ao **Pix Termux**, um ambiente tático e simbólico desenvolvido no **Termux**.  
 Este sistema integra segurança, automação, exploração simbólica e scripts personalizados que refletem estados emocionais e fases de evolução.
